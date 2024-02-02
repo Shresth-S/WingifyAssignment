@@ -538,7 +538,7 @@ li{
         font-family: sans-serif;
         font-style: normal;
         overflow-x: hidden;
-        overflow-y: scroll;
+        overflow-y: hidden;
         font-size: .6rem;
     }
     
